@@ -4,7 +4,7 @@ GKAchievementNotification
 What is it?
 -----------
 
-Game Center has a notification window that slides down and informs the GKLocalPlayer that they've been authenticated. The GKAchievementNotification classes are a way to display achievements awarded to the player in the same manner; more similar to Xbox Live style achievement popups. The achievement dialogs are added to the UIWindow view of your application.
+The notification window in Game Center slides down and informs the GKLocalPlayer that they have been authenticated. The GKAchievementNotification classes display achievements awarded to the player in the same manner. This is similar to Xbox Live style achievement popups. The achievement dialogs are added to the UIWindow view of your application.
 
 Using it
 --------
